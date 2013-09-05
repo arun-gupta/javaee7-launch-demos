@@ -1,4 +1,3 @@
-javaee7-launch-demos
-====================
+Java EE 7 Launch Demos
+======================
 
-Demos used during Java EE 7 launch
